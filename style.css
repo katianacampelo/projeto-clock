@@ -16,7 +16,7 @@ body{
 }
 header{
     
-  padding: 20px;  
+padding: 20px;  
 font-variant: small-caps;
 color: white;
 text-align: center;
@@ -27,7 +27,7 @@ background-color: white;
 border-radius: 10px;
 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.424);
 padding: 15px;
-width: 500px;
+
 margin: auto;
 }
 div{
